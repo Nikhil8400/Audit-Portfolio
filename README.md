@@ -20,7 +20,7 @@ Here is a list of contests I’ve participated in, my findings, and the rankings
 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle?submissions) | Under Review | 2-High, 1-Medium, 3-Low | Decentralized pre-market infrastructure |
 | [Zaros Part 1](https://codehawks.cyfrin.io/c/2024-07-zaros) | Under Review | 1-Medium | Zaros is a Perpetuals DEX powered by Boosted (Re)Staking Vaults |
 
-### TOTAL FINDINGS: 5-High, 8-Medium, 3-Low
+### TOTAL FINDINGS: 6-High, 9-Medium, 3-Low
 
 ---
 
